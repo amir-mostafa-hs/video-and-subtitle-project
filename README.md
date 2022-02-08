@@ -3,6 +3,9 @@
 this project for play video and video subtitle for when we need it in Google Meet
 
 # howe to work:
+
+> Before performing the following steps, put your video file in the "video" folder and your subtitle file in the "subtitles" Porsche.
+
 ## First:
 
     Open the index.
